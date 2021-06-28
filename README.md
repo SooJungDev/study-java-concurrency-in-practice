@@ -25,11 +25,10 @@
 - 14주차 : [14장. 동기화 클래스 구현](https://github.com/SooJungDev/study-java-concurrency-in-practice/issues/14)
 - 15주차 : [15장. 단일 연산 변수와 넌블로킹 동기화](https://github.com/SooJungDev/study-java-concurrency-in-practice/issues/15)
 - 16주차 : [16장. 자바 메모리 모델](https://github.com/SooJungDev/study-java-concurrency-in-practice/issues/16)
-- 17주차 : [부록 병렬 프로그래밍을 위한 어노테이션 및 스터디 종료 및 회고](https://github.com/SooJungDev/study-java-concurrency-in-practice/issues/17)
 
 ## 스터디 참여 현황
-| 참여자 (3) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차 |17주차 | 참석율 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  --- | --- |
-| SooJungDev | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark:  | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |
-| garlickim | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |
-| great0417 | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark: |  |
+| 참여자 (3) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차| 참석율 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  --- | 
+| SooJungDev | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark:  | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  | | | |
+| garlickim | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  | |  | |
+| great0417 | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark:  | :white_check_mark: |  | | | |
